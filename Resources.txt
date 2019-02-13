@@ -1,0 +1,9 @@
+1- https://stackoverflow.com/questions/17134716/convert-dataframe-column-type-from-string-to-datetime
+
+2- https://stackoverflow.com/questions/30482071/how-to-calculate-mean-values-grouped-on-another-column-in-pandas
+
+3- https://pandas.pydata.org/pandas-docs/version/0.22/generated/pandas.Series.drop.html
+
+4- https://matplotlib.org/users/legend_guide.html
+
+5- https://seaborn.pydata.org/tutorial/aesthetics.html
